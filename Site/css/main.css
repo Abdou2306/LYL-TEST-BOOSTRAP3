@@ -1,0 +1,41 @@
+/***     General			  ******/
+
+body{
+	background-color:#E5E3DF;
+
+}
+
+/***     Menu- Barre de Navigation 	  ******/
+.navbar-brand{
+	font-size:1.4em;
+	font-weight:bold;
+}
+.navbar-brand:hover{
+	color: #1ABC9C;
+}
+
+.navbar{
+	background-color:#2C3E50;
+	font-family:Kelson, Arial, 'sans serif';
+	font-size:1.35em;
+	padding-left:3%;
+	padding-right:3%;
+}
+
+.navbar a {
+	color: #fff;
+}
+
+.navbar li a {
+	color: #fff;
+}
+
+.navbar li a:hover {
+	color: #1ABC9C;
+}
+
+#barre-rechercher{
+	position:absolute;
+	left:35%;
+}
+	
